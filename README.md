@@ -1,5 +1,5 @@
 # Fraudetect Suspect Data
-Fraudetect şüpheli imzaların toplandığı data
+Fraudetect bot yazılımı için şüpheli imzaların toplandığı data
 
 # Kullanım Adımları
 * Fraudetect kullanıcı paneli üzerinden veya kendi tespit ettiğiniz Fraud sitelerin source koduna girin<br> 
