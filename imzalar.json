@@ -11,5 +11,6 @@
     "sms.php",
     "AHBAP Donation",
     "Son zamanlarda artan sistemi olumsuz etkileyen işlemlerden dolayı yukarıda yazan tutarı ödemeniz gerekmektedir",
-    "msg == 'tebrik'"
+    "msg == 'tebrik'",
+    "data.redirect == "tebrik")"
 ]
